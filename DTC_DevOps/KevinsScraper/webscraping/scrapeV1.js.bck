@@ -1,0 +1,10 @@
+const request = require('request');
+const cheerio = require('cheerio');
+
+
+request('http://dyterr.com/', (error, 
+response, html) => {
+  if (!error && response.statusCode == 200) {
+	console.log(html);
+  }
+}); 

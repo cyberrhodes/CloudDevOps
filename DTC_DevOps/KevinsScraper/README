@@ -1,0 +1,14 @@
+#Kevin web scraper
+
+# Base is node.js  https://nodejs.org/en/download/
+# using cheerio
+# and JQueri using css selectors and parts of the DOM(Document Object Model)
+
+
+# task is to scrape basics from website. 
+
+
+# commands to run scrape 
+# // node scrape.js 
+
+
